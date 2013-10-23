@@ -20,6 +20,8 @@ public class Triangle {
     }
     public void triangle()
     {
+        
+        System.out.println("Hello Triangle!!");
         for(int i=0;i<5;i++){
             for(int j=0;j<=i;j++){
                 System.out.print("*");
